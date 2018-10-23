@@ -1,3 +1,6 @@
+
+
+
 #filter-div {
   display: flex;
   justify-content: center;
@@ -50,4 +53,23 @@
 
 body {
   margin: 0;
+}
+
+.pup-id {
+  text-align: center;
+  font-family: Aladin; italic
+  font-size: 1cm;
+}
+
+h2, h3 {
+  color: white;
+}
+
+h1 .pup-id {
+  font-size: 1cm;
+}
+
+#pup-status {
+  width: 100px;
+  font-size: 1rem;
 }
